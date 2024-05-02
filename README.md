@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###
-
-
-for work? do reach, [email](mailto:kuntarvishnuprasad41@gmail.com) :)
+- 🔭 I’m currently working on B2B and B2C E-Commerce using Next.js, Typescript, PostgreSQL
+- 🌱 I’m currently learning Next.js, TurboRepo, WebRTC
+- 👯 I’m looking to collaborate on Any WebRTC projects out there.
+- 💬 Ask me about Android app Development, FSD using MERN, PostgreSQL, Linux, DevOPS
+- 📫 How to reach me: [email](mailto:kuntarvishnuprasad41@gmail.com) :)
 
